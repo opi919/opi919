@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Laravel
+🔭 I’m currently working on Laravel <br/>
 🌱 I’m currently learning Laravel,Node.js,Database Design
 <!--<img src="https://g[](url)ithub.com/opi919/opi919/blob/main/5eKX.gif" height="200" weight="200">-->
