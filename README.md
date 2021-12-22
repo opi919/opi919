@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/opi919/opi919/blob/main/5eKX.gif" height="200" weight="200">
+🔭 I’m currently working on Laravel
+<!--<img src="https://g[](url)ithub.com/opi919/opi919/blob/main/5eKX.gif" height="200" weight="200">-->
