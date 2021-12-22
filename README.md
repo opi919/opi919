@@ -1,4 +1,4 @@
-### Hi Im Momen Khandoker <img src="https://github.com/opi919/opi919/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="20" weight="20">
+### Hi Im Momen Khandoker <img src="https://github.com/opi919/opi919/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="40" weight="40">
 
 <!--
 **opi919/opi919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
