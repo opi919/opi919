@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img src="https://github.com/opi919/opi919/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="40" weight="40">, I'm Momen Khandoker</h1>
 <h3 align="center">A PASSIONATE WEB DEVELOPER</h3>
 
-<img align="left" src="https://komarev.com/ghpvc/?username=opi919&style=for-the-badge>
+<img align="left" src="https://komarev.com/ghpvc/?username=opi919>
 										       
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
