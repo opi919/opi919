@@ -31,7 +31,9 @@
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/opi919">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 	   <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/profile.php?id=100007501185769">
-		<img src="https://img.icons8.com/doodle/43/000000/facebook-new.png"/>
+		<img src="https://img.icons8.com/doodle/43/000000/facebook-new.png"/></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://opi919.ninja">
+		<img src="https://img.icons8.com/doodle/43/000000/domain.png"/></a>
    </div>
 
 </p>
