@@ -1,5 +1,8 @@
-<h1 align="center">Hi<img src="https://github.com/opi919/opi919/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="40" weight="40">, I'm Momen Khandoker</h1>
-<h3 align="center">A PASSIONATE WEB DEVELOPER</h3>
+<h1 align="center">Hi<img src="https://github.com/opi919/opi919/blob/main/0bf2baebc370e83b26b1e5ef6a558f07.gif" height="40" weight="40">, I'm Momen Khandoker Ope</h1>
+<h3 align="center">Assistant Programmer <br>
+ICT Center <br>
+University of Rajshahi
+</h3>
 
   
  <a target="_blank" align="center">
