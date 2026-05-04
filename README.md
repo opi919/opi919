@@ -20,7 +20,7 @@ University of Rajshahi
 
 - 🌱 I’m currently learning Android Development
 
-- 📫 How to reach me **khandokermomen919@gmail.com**
+- 📫 How to reach me **momen@ru.ac.bd**
 										       
 
 <br/>
@@ -30,7 +30,7 @@ University of Rajshahi
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" rel="noreferer" href="https://www.linkedin.com/in/momen-khandoker-048110214/">
+        <a style="margin-left: 10px;"  target="_blank" rel="noreferer" href="https://www.linkedin.com/in/momen-khandoker-ope/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/opi919">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
